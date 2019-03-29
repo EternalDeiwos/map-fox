@@ -1,10 +1,7 @@
-# react-leaflet-blog-post-project
-Sandbox code from a blog post about React and Leaflet.
 
-#### Quick Setup
+#### To run the project
 
-Clone the project, `cd` into the directory. Using a recent version of Node (6.x+), run:
-
+Clone and then:
 ```
 npm install
 npm start
@@ -14,6 +11,3 @@ This will install the required Node libraries catalogued in `package.json` and s
 
 Visit `http://localhost:7171` to see the project running in the browser.
 
-#### License
-
-Apache 2
